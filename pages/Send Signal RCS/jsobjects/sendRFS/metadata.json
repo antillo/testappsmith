@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "sendRFS",
+    "pageId": "Send Signal RCS",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "rcs_options",
+        "value": "[{\n  \"label\": \"AVANZAR\",\n  \"value\": \"AVANZAR\"\n}, {\n  \"label\": \"CANCEL AVANZAR\",\n  \"value\": \"CANCEL AVANZAR\"\n}]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Send Signal RCS_sendRFS",
+  "deleted": false,
+  "gitSyncId": "657ae183ff94af662d468d92_65813886f241783b5bc787a0"
+}
